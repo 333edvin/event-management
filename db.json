@@ -1,0 +1,75 @@
+{
+    "venue":[
+        {
+            "id": 1,
+            "title": "Garden Paradise",
+            "description": "A serene garden venue with lush greenery and beautiful floral arrangements.",
+            "rating": 4.5,
+      "photo": "https://example.com/garden_paradise.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Oceanfront Retreat",
+      "description": "An elegant oceanfront venue offering breathtaking views and luxurious amenities.",
+      "rating": 4.8,
+      "photo": "https://example.com/oceanfront_retreat.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Rustic Barn",
+      "description": "A charming rustic barn venue perfect for romantic weddings and cozy receptions.",
+      "rating": 4.2,
+      "photo": "https://example.com/rustic_barn.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Grand Ballroom",
+        "description": "A luxurious grand ballroom venue with exquisite decor and impeccable service.",
+        "rating": 4.6,
+        "photo": "https://example.com/grand_ballroom.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Mountain Lodge",
+        "description": "A cozy mountain lodge venue nestled in the heart of nature, perfect for intimate gatherings.",
+        "rating": 4.4,
+        "photo": "https://example.com/mountain_lodge.jpg"
+    },
+    {
+        "id": 6,
+        "title": "City Rooftop",
+        "description": "A stylish rooftop venue offering panoramic city views and modern amenities.",
+        "rating": 4.7,
+        "photo": "https://example.com/city_rooftop.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Historic Mansion",
+        "description": "An opulent historic mansion venue steeped in elegance and charm, perfect for grand affairs.",
+      "rating": 4.9,
+      "photo": "https://example.com/historic_mansion.jpg"
+    },
+    {
+        "id": 8,
+      "title": "Beach Resort",
+      "description": "A luxurious beach resort venue offering stunning ocean views and top-notch amenities.",
+      "rating": 4.7,
+      "photo": "https://example.com/beach_resort.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Vineyard Estate",
+        "description": "A picturesque vineyard estate venue surrounded by rolling hills and lush vineyards.",
+        "rating": 4.3,
+        "photo": "https://example.com/vineyard_estate.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Country Club",
+      "description": "An exclusive country club venue featuring elegant interiors and manicured grounds.",
+      "rating": 4.6,
+      "photo": "https://example.com/country_club.jpg"
+    }
+]
+
+}
